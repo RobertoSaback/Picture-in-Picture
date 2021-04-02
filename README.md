@@ -70,7 +70,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 <!-- GETTING STARTED -->
 ## Getting Started
 
-*  Open/refresh the project page 
+*  Open/refresh the <a href="">project page</a>
 * Chose any option in the window pop-up
 * Click on the Start button.
  
