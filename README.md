@@ -9,7 +9,7 @@
   <h3 align="center">A Picture-in-Picture project made in JS</h3>
 
   <p align="center">
-   A project that allows you to keep a window opened on background just like old televisions. 
+   Create a nested screen from the Picture-in-Picture API
     <br />
     <a href="https://github.com/RobertoSaback"><strong>Explore other projects »</strong></a>
     <br />
