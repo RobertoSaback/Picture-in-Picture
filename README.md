@@ -6,10 +6,10 @@
     <img src="" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Video Component made in JS</h3>
+  <h3 align="center">A Picture-in-Picture project made in JS</h3>
 
   <p align="center">
-    Created for my own website reasons, but you can take it and use that as you need =) 
+   A project that allows you to keep a window opened on background just like old televisions. 
     <br />
     <a href="https://github.com/RobertoSaback"><strong>Explore other projects »</strong></a>
     <br />
@@ -48,32 +48,32 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Video Player][ <img src="" alt="Logo" width="80" height="80">]](https://example.com)
+[![Picture-in-Picture][ <img src="" alt="Logo" width="80" height="80">]](https://example.com)
 
-There are already a lot of video players in the web, I know. But this idea came from create one by my own and add some features inside like my own logo, some singular design, my own costumized features. That resource takes a great place in a world where e-learning and online courses are getting more usual and  and homepages owners wants the most  sigunlar version  of their webpage. This is an open-source project then feel free to fork , copy , use it with commercial reasons or not.  If that project was util for you i would apreciate  if you  let a  start here.
+Picture-in-picture is not a new teconology ( it´s been there more than 20 years in old televisions) but this is a great project to use on your daily basis. How cool is see a video on a background just like Youtube picture-in-picture function ? or follow a tutorial from  other page nested on the screen while  you are coding ? or see who is  behind you with the webcam if you are wearing noise-cancelling headphones and can't pay attention ?
+That functionality  is great for a lot things  on your daily basis, but not all websites have this feature. The good news is if you are using google chrome or edge your browser already have this Web API. The core idea of this project is create one unique button as a shortcut to this functionality then you don´t need spend time writing on your browser console  the same code line ''const mediaStream = await navigator.mediaDevices.getDisplayMedia();' because at the end of the day this project is nothing too crazy, nothing else than a shortcut for  this web API. It's a simple project with a sosfisticated solution for a problem.
+
 
 Here's why:
 
-* World is getting more e-learning friendly besides use a customized video player with  your own features and brand make your business webpage more singular.
+* It's a great solution for multitasks activities.
 
-* As an open-source project it will always be able for new features , it is always envolving.
-
-Of course, no one component will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. 
+* Helps a lot if you are watching some video from any other source than youtube and want do something else for meanwhile. (ex:I'm currently watching News from  my country while I'm writing this).
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
 
-* Vanila Java Script 
-
-..... and  love :heart: 
-
+* Vanila Java Script .... with some CSS flavour :icecream:
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Just copy the source code and use it as you want. No misteries , no surprises. 
+1- Open/refresh the project page 
+2- chose any option in the window pop-up
+3- click on the Start button.
+ 
 ... Enjoy ! 
 
 <!-- LICENSE -->
@@ -83,15 +83,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [https://pixabay.com/videos/]
-* [https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent]
-* [https://www.w3schools.com/howto/howto_js_fullscreen.asp]
-* [https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/change_event]
-* [https://www.w3schools.com/tags/ref_av_dom.asp]
-* [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select]
-* [https://developer.mozilla.org/en-US/docs/Web/CSS/calc()]
-* [https://security.stackexchange.com/questions/126407/why-does-chrome-send-four-browsers-in-the-user-agent-header]
-* [https://fontawesome.com/icons?d=gallery&p=2&q=close&m=free]
+* []
 
 <!-- CONTACT -->
 ## Contact
@@ -99,4 +91,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Roberto Saback  - saback.arq@gmail.com
 
 Project Link: [----](https://github.com/robertosaback/repo_name)
-
