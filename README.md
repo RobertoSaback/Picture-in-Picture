@@ -51,7 +51,7 @@
 [![Picture-in-Picture][ <img src="" alt="Logo" width="80" height="80">]](https://example.com)
 
 Picture-in-picture is not a new teconology ( it has been there for rouglhy 20 years or more in old televisions) but this is a great project to use on your daily basis. How cool is see a video on a background just like Youtube picture-in-picture function ? or follow a tutorial from  other page nested on the screen while  you are coding ? or see who is  behind you with the webcam if you are wearing noise-cancelling headphones and can't pay attention ?
-That functionality  is great for a lot things  on your daily basis, but not all websites have this feature. The good news is if you are using google chrome or edge your browser already have this Web API. The core idea of this project is create one unique button as a shortcut to this functionality then you don´t need spend time writing on your browser console  the same code line `const mediaStream = await navigator.mediaDevices.getDisplayMedia();` because at the end of the day this project is nothing too crazy, nothing else than a shortcut for  this web API. It's a simple project with a sosfisticated solution for a problem.
+That functionality  is great for a lot things  on your daily basis, but not all websites have this feature. The good news is if you are using google chrome or edge your browser already have this Web API. The core idea of this project is create one unique button as a shortcut to this functionality then you don´t have to spend time writing on your browser console  the same code line `const mediaStream = await navigator.mediaDevices.getDisplayMedia();` day in day out anymore. It's a simple project with a sosfisticated solution for a problem.
 
 
 Here's why:
