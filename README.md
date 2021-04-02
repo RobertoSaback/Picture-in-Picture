@@ -70,9 +70,9 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 <!-- GETTING STARTED -->
 ## Getting Started
 
-1- Open/refresh the project page 
-2- chose any option in the window pop-up
-3- click on the Start button.
+*  Open/refresh the project page 
+* Chose any option in the window pop-up
+* Click on the Start button.
  
 ... Enjoy ! 
 
