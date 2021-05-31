@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="https://images.unsplash.com/photo-1530250418330-cb2c35da5277?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Logo" width="120" height="120>
+    <img src="https://images.unsplash.com/photo-1530250418330-cb2c35da5277?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Logo" width="240" height="120>
   </a> 
 
   <h3 align="center">A Picture-in-Picture project made in JS</h3>
