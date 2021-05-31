@@ -14,7 +14,7 @@
     <a href="https://github.com/RobertoSaback"><strong>Explore other projects »</strong></a>
     <br />
     <br />
-    <a href="">View Demo</a>
+    <a href="https://robertosaback.github.io/Picture-in-Picture/">View Demo</a>
     ·
     <a href="https://github.com/robertosaback/Video-Player-Component/issues">Report Bug</a>
     ·
