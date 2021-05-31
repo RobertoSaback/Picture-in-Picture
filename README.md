@@ -91,4 +91,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Roberto Saback  - saback.arq@gmail.com
 
-Project Link: [----](https://github.com/robertosaback/repo_name)
+
+<a href="https://www.linkedin.com/in/roberto-saback-52632446/">LinkedIn</a>
